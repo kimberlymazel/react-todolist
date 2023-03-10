@@ -1,2 +1,10 @@
-# react-todolist
- This is a repository containing the related files to Kimberly Mazel's To-Do List web application
+# React To-Do List
+
+This is a To-Do List web application made from React. The additional tools used to create it are stated below.
+
+# Tools and Framework
+- MotionUI
+- GoogleFonts
+
+# Preview
+
