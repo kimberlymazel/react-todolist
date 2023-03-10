@@ -14,7 +14,10 @@ Fonts from Google Fonts were used in this project, namely
 - [Edu NSW ACT Foundation](https://fonts.google.com/specimen/Edu+NSW+ACT+Foundation?query=edu+nsw)
 - [Gaegu](https://fonts.google.com/specimen/Gaegu?query=gaegu)
 
-These fonts can be seen in the [App.css]( file.
+These fonts can be seen in the [App.css](https://github.com/kimberlymazel/react-todolist/blob/main/src/App.css) file.
+
+# Reference
+This project was heavily referenced by [developedbyed](https://youtu.be/pCA4qpQDZD8)'s YouTube video which provided a helping hand in creating this project.
 
 # Preview
 ![launch image](https://github.com/kimberlymazel/react-todolist/blob/main/preview-images/launch.png?raw=true)
